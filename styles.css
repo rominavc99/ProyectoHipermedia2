@@ -4,7 +4,7 @@
 
 :root{
     --csm-red: #d93831;
-    --csm-gray-hard: #58585a;
+    --csm-gray-hard: #9c723a;
     --csm-gray: 	#bbbbbb;
 }
 
@@ -23,7 +23,7 @@ body{
     justify-content: center;
     height: 100px;
 
-    background-color: black;
+    background-color: rgb(98, 131, 82);
     width: 100%;
     text-align: center;
     font-size: 27px;
